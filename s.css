@@ -1,0 +1,210 @@
+.page {
+    width: 1500px;
+    height: 1500px;
+    background-color: white;
+    margin: auto;
+    background-image: url("assets/a17.jpg");
+}
+
+.info {
+    width: 1500px;
+    height: 200px;
+    background-color: rgb(35, 35, 35);
+    padding-top: 20px;
+}
+
+.SIDE {
+    width: 300PX;
+    height: 400PX;
+    float: left;
+    background-color: rgb(251, 244, 244);
+}
+
+.ki {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: chocolate 10px;
+    background-image: url("assets/medium.png");
+    background-size: 100% 100%;
+    position: absolute;
+    margin: 0 0 0 50px;
+    position: relative;
+    float: left;
+}
+
+.info1 {
+    width: 1200px;
+    height: 400px;
+    background-color: white;
+    float: left;
+}
+
+.bottom {
+    width: 1500px;
+    height: 400px;
+    background-color: rgb(35, 35, 35);
+    float: left;
+}
+
+ul li {
+    margin-left: 20px;
+    font-size: 22px;
+    line-height: 65px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.box1 {
+    width: 360px;
+    height: 350px;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 15px;
+    background-color: rgb(255, 225, 225, 0.2);
+    float: left;
+    margin: 20px 5px 0 20px;
+    border-style: groove;
+    box-shadow: 2px 2px 8px white;
+    overflow: auto;
+}
+
+.bottomtop {
+    width: 1500px;
+    height: 60px;
+    background-color: rgb(42, 40, 40);
+}
+
+tr td {
+    font-size: 20px;
+    display: inline;
+    font-style: italic;
+    margin-left: 20px;
+    font-stretch: narrower;
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+
+h4 {
+    text-align: center;
+    color: white;
+    font-weight: 50%;
+}
+
+.bottomfoot {
+    width: 120px;
+    height: 120px;
+    background-image: url(assets/chatting.png);
+    background-size: 100% 100%;
+    border-width: 2px;
+    border-radius: 15px;
+    float: left;
+    margin: 20px 5px 0 550px;
+}
+
+.bottomfoot {
+    width: 120px;
+    height: 120px;
+    background-image: url(assets/chatting.png);
+    background-size: 100% 100%;
+    border-width: 2px;
+    border-radius: 15px;
+    float: left;
+    margin: 20px 5px 0 550px;
+    transform: scale(1.3);
+}
+
+.bottomfoot1 {
+    width: 120px;
+    height: 120px;
+    background-image: url(assets/twitter-1.png);
+    background-size: 100% 100%;
+    border-width: 2px;
+    border-radius: 15px;
+    float: left;
+    margin: 20px 5px 0 3px;
+}
+
+.bottomfoot1 {
+    width: 120px;
+    height: 120px;
+    background-image: url(assets/twitter-1.png);
+    background-size: 100% 100%;
+    border-width: 2px;
+    border-radius: 15px;
+    float: left;
+    margin: 20px 5px 0 3px;
+    transform: scale(1.1);
+}
+
+.bottomfoot2 {
+    width: 120px;
+    height: 120px;
+    background-image: url(assets/a44.png);
+    background-size: 100% 100%;
+    border-width: 2px;
+    border-radius: 15px;
+    float: left;
+    margin: 20px 5px 0 3px;
+}
+
+:hover.bottomfoot2 {
+    width: 120px;
+    height: 120px;
+    background-image: url(assets/a44.png);
+    background-size: 100% 100%;
+    border-width: 2px;
+    border-radius: 15px;
+    float: left;
+    margin: 20px 5px 0 3px;
+    transform: scale(1.1);
+}
+
+.tittle {
+    width: 1500px;
+    height: 400px;
+    float: left;
+    background-color: rgb(184, 183, 183);
+}
+
+.box3 {
+    width: 220px;
+    height: 170px;
+    float: left;
+    margin: 20px 5px 0 20px;
+    background-size: 100% 100%;
+}
+
+.box3 :hover {
+    width: 225px;
+    height: 175px;
+    float: left;
+    margin: 20px 5px 0 20px;
+    background-size: 100% 100%;
+    transform: scale(1.2);
+}
+
+.open {
+    width: 360px;
+    height: 100px;
+    background-color: rgba(46, 46, 43, 0.2);
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+}
+
+.float {
+    width: 1500px;
+    height: 100px;
+    background-color: black;
+    float: left;
+}
+
+h5 {
+    font-size: larger;
+    color: white;
+}
